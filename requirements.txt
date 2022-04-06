@@ -45,7 +45,7 @@ nbformat==5.0.7
 node==0.9.25
 notebook==6.4.10
 npm==0.1.1
-numpy==1.19.1
+numpy==1.21.0
 odict==1.7.0
 optional-django==0.1.0
 packaging==20.4
@@ -117,7 +117,7 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 joblib==0.16.0
 MarkupSafe==1.1.1
-numpy==1.19.1
+numpy==1.21.0
 pandas==1.1.0
 plotly==4.9.0
 python-dateutil==2.8.1
