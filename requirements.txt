@@ -16,7 +16,7 @@ dash-table==4.9.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
-Flask==1.1.2
+Flask==2.3.2
 Flask-Compress==1.5.0
 future==0.18.2
 gunicorn==20.0.4
@@ -109,7 +109,7 @@ dash-renderer==1.6.0
 dash-table==4.9.0
 distlib==0.3.1
 filelock==3.0.12
-Flask==1.1.2
+Flask==2.3.2
 Flask-Compress==1.5.0
 Flask-SQLAlchemy==2.4.4
 future==0.18.2
